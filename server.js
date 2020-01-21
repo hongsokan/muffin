@@ -11,10 +11,10 @@ const router = express.Router();
 router.get('/', cors(), (req, res) => { res.send('cors!') });
 //--------------------------------------------------
 // var connection = mysql.createConnection({
-//   host     : 'jun-db.c3y149arg7u0.ap-northeast-2.rds.amazonaws.com',
-//   user     : 'Jun',
-//   password : 'Akfwk!3524',
-//   database : 'mufin'
+//   host     : '',
+//   user     : '',
+//   password : '',
+//   database : ''
 // });
  
 // connection.connect();
